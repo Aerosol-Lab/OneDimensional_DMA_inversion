@@ -12,7 +12,7 @@ Download the current version of the code
 
 ## 3. Examples
 
-## 4. Licence
+## 4. License
 
 OneDimensional_DMA_inversion is an open-source package, this mean you can use or modify it under the terms and conditions of the GPL-v3 licence. You should have received a copy along with this package, if not please refer to [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
