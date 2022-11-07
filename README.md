@@ -6,6 +6,10 @@ This repository is devoted to single DMA (or 1d) inversion codes. This codes are
 
 ## 2. Installation
 
+Download the current version of the code
+
+    git clone git@github.com:Aerosol-Lab/OneDimensional_DMA_inversion.git
+
 ## 3. Examples
 
 ## 4. Licence
