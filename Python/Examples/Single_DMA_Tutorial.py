@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from linker import *
 
 #import pandas as pd
