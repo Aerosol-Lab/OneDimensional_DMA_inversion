@@ -26,7 +26,7 @@ Guided examples are provided in the folder: [examples](https://github.com/Aeroso
 
 ## 5. Documentation
 
-These codes include a detailed tutorial with the aim to become a standard of operation for single DMA inversion. This is found in the folder: [examples](https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion/tree/main/Python/Documantation)
+These codes include a detailed tutorial with the aim to become a standard of operation for single DMA inversion. This is found in the folder: [Documantation](https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion/tree/main/Python/Documantation)
 
 ## 6. License
 
