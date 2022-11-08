@@ -12,7 +12,7 @@ def Rho_gas(T_g):
     rho = P_g/(R * T_g)
     return rho
 
-# Gas dinamic viscosity
+# Gas dynamic viscosity
 def Mu_gas(T_g):
     mu_g = (18.203E-6)*(293.15+110)/(T_g+110)*(T_g/293.15)**(1.5)
     return mu_g
@@ -32,7 +32,7 @@ def GET_Cc(Dp,T_g):
     Kn = lambda_g/(0.5*Dp)
     return 1+A1*Kn+A2*Kn*np.exp(-A3/Kn)
 
-# Friction coefficient
+# Friction coefficient (spherical particle)
 def friction(Dp,T_g):
     mu_g = Mu_gas(T_g)
     Cc = GET_Cc(Dp,T_g)
