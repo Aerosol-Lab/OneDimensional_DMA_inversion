@@ -22,7 +22,7 @@ For running the Python scripts of this folder you will need the following librar
 
 ## 4. Examples
 
-Guided examples are provided in the folder: [examples](https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion/tree/main/Python/Examples).
+Guided examples are provided in the folder: [examples](https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion/tree/main/Python/Examples). In this folder a .ipynb and a .py file for Jupyter Notebook and Python users are provided.
 
 ## 5. License
 
