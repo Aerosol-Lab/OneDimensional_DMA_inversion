@@ -22,6 +22,8 @@ For running the Python scripts of this folder you will need the following librar
 
 ## 4. Examples
 
+Guided examples are provided in the folder: [examples](https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion/tree/main/Python/Examples).
+
 ## 5. License
 
 OneDimensional_DMA_inversion is an open-source package, this mean you can use or modify it under the terms and conditions of the GPL-v3 licence. You should have received a copy along with this package, if not please refer to [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
