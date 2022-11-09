@@ -19,6 +19,7 @@ OneDimensional_DMA_inversion is an open-source package, this mean you can use or
 ## 5. Authors
 
 * Dr. José Morán
+* Austin Andrews
 * Hogan Lab.
 * [Home page](https://hoganlab.umn.edu/)/[LinkedIn](https://www.linkedin.com/in/hogan-lab-994a3a246/)
 * University of Minnesota
