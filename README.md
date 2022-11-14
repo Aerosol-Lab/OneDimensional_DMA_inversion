@@ -24,7 +24,7 @@ Both Matlab and Python codes include a folder with documentation. This includes 
 
 OneDimensional_DMA_inversion is an open-source package, this mean you can use or modify it under the terms and conditions of the GPL-v3 licence. You should have received a copy along with this package, if not please refer to [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
-## 6. Authors
+## 6. Authors and Contact
 
 * Dr. José Morán
 * Austin Andrews
@@ -32,3 +32,8 @@ OneDimensional_DMA_inversion is an open-source package, this mean you can use or
 * [Home page](https://hoganlab.umn.edu/)/[LinkedIn](https://www.linkedin.com/in/hogan-lab-994a3a246/)
 * University of Minnesota
 * HoganLaboratory[at]umn.edu
+
+## 7. Citation
+
+If using this repository for your research, please cite us:
+Morán, J; Andrews, A. (YYYY, MONTH DD). One dimensional DMA inversion. Hogan Lab GitHub. https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion
