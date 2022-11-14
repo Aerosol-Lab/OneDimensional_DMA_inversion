@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This repository is devoted to single DMA (or 1d) inversion codes. This codes are needed when the experimental configuration: neutralizer+DMA+CPC is used for measuring the particle size distribution.
+This repository is devoted to single DMA (or 1d) inversion codes. These codes are needed when the experimental configuration: neutralizer+DMA+CPC is used for measuring the particle size distribution.
 
 ## 2. Installation
 
