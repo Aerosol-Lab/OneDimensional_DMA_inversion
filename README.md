@@ -16,11 +16,15 @@ Python codes requiere installing some special libraries. See the [Python](https:
 
 Both Matlab and Python folders contain a folder where examples on how to run the codes and interpreting the results are provided.
 
-## 4. License
+## 4. Documentation
+
+Both Matlab and Python codes include a folder with documentation. This includes the description of codes and background necessary for their understanding.
+
+## 5. License
 
 OneDimensional_DMA_inversion is an open-source package, this mean you can use or modify it under the terms and conditions of the GPL-v3 licence. You should have received a copy along with this package, if not please refer to [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
-## 5. Authors
+## 6. Authors
 
 * Dr. José Morán
 * Austin Andrews
