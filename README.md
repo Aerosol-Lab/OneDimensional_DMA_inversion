@@ -37,4 +37,4 @@ OneDimensional_DMA_inversion is an open-source package, this mean you can use or
 
 If using this repository for your research, please cite us:
 
-    Morán, J; Andrews, A. (YYYY, MONTH DD). One dimensional DMA inversion codes. Hogan Lab GitHub. https://github.com/Aerosol-Lab/OneDimensional_DMA_inversion
+[Morán, J; et al. Powder Technology, Volume 425, 1 July 2023, 118578.](https://doi.org/10.1016/j.powtec.2023.118578)
