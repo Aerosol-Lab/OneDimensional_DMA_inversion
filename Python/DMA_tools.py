@@ -94,8 +94,8 @@ class DMA():
         t = np.zeros(4)
         t[0] = 0.82 * np.exp(-11.5 * u)
         t[1] = 0.10 * np.exp(-70.0 * u)
-        t[2] = -0.03 * np.exp(-180.0 * u)
-        t[3] = -0.02 * np.exp(-340.0 * u)
+        t[2] = 0.03 * np.exp(-180.0 * u)
+        t[3] = 0.02 * np.exp(-340.0 * u)
         return np.sum(t)
     def Charging_efficiency_Tc(self,Dp,charge):
         """
